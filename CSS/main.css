@@ -1,0 +1,65 @@
+:root
+{
+    background-color:rgb(151, 232, 247);
+    color:black;
+}
+
+img
+{
+    display: block;
+    margin: auto;
+}
+h1
+{
+    font-size: 48px;
+    color:black;
+    text-align:center;
+}
+h2, h3, h4, h5, h6
+{
+    color:rgb(92, 21, 158)
+}
+a
+{
+    color:rgb(189, 60, 139);
+}
+li
+{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hometitle
+{
+    font-size: 55px;
+    color:darkslategrey;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+}
+.profilep
+{
+    text-align:center;
+    font-size: 15px;
+}
+p
+{
+    color:rgb(104, 6, 11);
+}
+th,td
+{
+    border: 2px solid black;
+    padding: 5px;
+}
+tr
+{
+    color:blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table
+{
+    border-collapse: collapse;
+}
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
