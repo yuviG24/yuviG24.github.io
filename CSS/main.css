@@ -38,11 +38,12 @@ li
 .profilep
 {
     text-align:center;
-    font-size: 15px;
+    font-size: 20px;
 }
 p
 {
     color:rgb(104, 6, 11);
+    font-size: 18px;
 }
 th,td
 {
