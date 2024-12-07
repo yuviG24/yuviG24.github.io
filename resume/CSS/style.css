@@ -1,0 +1,25 @@
+:root{
+    background-color: #D3C4B3;
+    color:black;
+    text-align: center;
+}
+nav{
+    border:9px solid #D27D54;
+    margin: 8vw;
+    margin-top: 5px;
+}
+section{
+    border: 6px solid #CE8490;
+    margin: 20vw;
+    margin-top: 25px;
+
+}
+h2{
+    color: #BC6266;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    list-style:none;
+}
+
